@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33a1422a-26a0-44b2-89b4-3433739ebd28" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CharAndBoolean/CharAndBoolean.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoop/ForLoop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../InputCalculator/InputCalculator.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodOverloading/MethodOverloading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP1/Inheritance/src/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OddSum/OddSum.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Pattern/Pattern.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Flask/BLOGAPP" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1oV0h9tHbte6ND5LfjvS5nJsi6B" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.appearance" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33a1422a-26a0-44b2-89b4-3433739ebd28" name="Default Changelist" comment="" />
+      <created>1613356568641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613356568641</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>

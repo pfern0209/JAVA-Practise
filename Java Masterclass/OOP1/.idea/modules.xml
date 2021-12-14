@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Classes/Classes.iml" filepath="$PROJECT_DIR$/Classes/Classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OOP1.iml" filepath="$PROJECT_DIR$/.idea/OOP1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Person/Person.iml" filepath="$PROJECT_DIR$/Person/Person.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SumCalculator/SumCalculator.iml" filepath="$PROJECT_DIR$/SumCalculator/SumCalculator.iml" />
+    </modules>
+  </component>
+</project>
